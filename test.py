@@ -1,1 +1,1 @@
-l=list(map(int,input().split()))
+print("Hello World")
